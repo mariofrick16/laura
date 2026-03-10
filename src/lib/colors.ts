@@ -57,13 +57,13 @@ export const sizes: SizeOption[] = [
   {
     value: 'small',
     label: 'Small',
-    description: 'ca. 8cm breit x 100cm lang',
+    description: 'ca. 9cm breit x 80cm lang',
     price: 44
   },
   {
     value: 'regular',
     label: 'Regular',
-    description: 'ca. 9.5cm breit x 120cm lang',
+    description: 'ca. 9.5cm breit x 100cm lang',
     price: 49
   }
 ];
