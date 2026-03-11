@@ -14,7 +14,7 @@ export default function ProductShowcase({ onOrderClick }: ProductShowcaseProps) 
             Sophie Scarf
           </h1>
           <p className="text-lg md:text-xl text-amber-700 italic mb-4">
-            made by Laura
+            by Laura
           </p>
           <p className="text-xl md:text-2xl text-amber-800 font-light">
             Zeitlose Eleganz für jeden Tag
