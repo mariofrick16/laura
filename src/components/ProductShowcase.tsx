@@ -72,7 +72,7 @@ export default function ProductShowcase({ onOrderClick }: ProductShowcaseProps) 
                   </div>
                   <div className="flex items-center text-amber-800">
                     <div className="w-2 h-2 bg-amber-600 rounded-full mr-3"></div>
-                    <span>2 Grössen verfügbar: Small & Regular</span>
+                    <span>2 Grössen: Small & Regular</span>
                   </div>
                   <div className="flex items-center text-amber-800">
                     <div className="w-2 h-2 bg-amber-600 rounded-full mr-3"></div>
