@@ -64,7 +64,7 @@ export default function ProductShowcase({ onOrderClick }: ProductShowcaseProps) 
                 <div className="space-y-3 mb-8">
                   <div className="flex items-center text-amber-800">
                     <div className="w-2 h-2 bg-amber-600 rounded-full mr-3"></div>
-                    <span>Premium Junghans Wolle / Lana Grossa Cool Wool Merino</span>
+                    <span>Premium Merino-Wolle von Lana Grossa</span>
                   </div>
                   <div className="flex items-center text-amber-800">
                     <div className="w-2 h-2 bg-amber-600 rounded-full mr-3"></div>
